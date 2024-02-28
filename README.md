@@ -1,0 +1,1 @@
+# ArtPlatForm practise for mvc
